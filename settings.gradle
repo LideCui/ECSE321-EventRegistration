@@ -8,3 +8,5 @@
  */
 
 rootProject.name = 'ECSE321-EventRegistration'
+
+include ':EventRegistration-Backend'
